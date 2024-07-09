@@ -1,0 +1,8 @@
+*/.eslintrc
+*/.exercism/config.json
+*/.gitignore
+*/.exercism/metadata.json
+*/.npmrc
+*/babel.config.js
+*/package.json
+
